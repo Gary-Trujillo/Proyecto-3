@@ -1,0 +1,5 @@
+High Score n00b: 5
+High Score quick: 0
+High Score crazy: 0
+Games Played: 5
+Apples Eaten: 8
